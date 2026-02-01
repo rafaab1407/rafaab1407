@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hey, eu sou o Rafael Andrade Borges
 
-<!--
-**rafaab1407/rafaab1407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Developer** focado em **backend, dados e integrações de sistemas**, com experiência prática em **JavaScript, Node.js, SQL e AWS**.
 
-Here are some ideas to get you started:
+Trabalho no desenvolvimento de aplicações **escaláveis, performáticas e seguras**, com forte atuação em **bancos de dados relacionais**, **APIs REST** e **integrações complexas com ERPs corporativos**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Tech Focus
+- Backend & APIs REST  
+- SQL avançado e performance tuning  
+- Integração de sistemas e ERPs  
+- Cloud applications (AWS)  
+- Arquitetura e refatoração de sistemas  
+
+---
+
+## 🛠️ Tech Stack
+**Backend**
+- Node.js
+- JavaScript
+
+**Frontend**
+- JavaScript
+
+**Databases**
+- MySQL
+- SQL Server  
+- Modelagem de dados  
+- Queries complexas & Stored Procedures  
+
+**Cloud**
+- AWS
+
+**Integration**
+- REST APIs  
+- ERP Integration (TOTVS, SAP, MV)
+
+---
+
+## ⚙️ What I do
+- Build and maintain scalable backend services  
+- Design and optimize relational databases  
+- Develop and consume RESTful APIs  
+- Integrate systems and enterprise ERPs  
+- Improve performance and refactor legacy code  
+- Deploy and maintain cloud applications  
+
+---
+
+## 📊 GitHub Stats
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaab1407&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaab1407&layout=compact&theme=tokyonight)
+
+---
+
+## 🌎 Connect with me
+- 💼 LinkedIn: [linkedin.com/in/rafaelandradeborges](https://www.linkedin.com/in/rafaelandradeborges/)
