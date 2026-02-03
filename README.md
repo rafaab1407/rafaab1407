@@ -1,8 +1,8 @@
 # 👋 Hey, eu sou o Rafael Andrade Borges
 
-💻 **Full Stack Developer** focado em **backend, dados e integrações de sistemas**, com experiência prática em **JavaScript, Node.js, SQL e AWS**.
+💻 **Full Stack Developer** focado em **backend, dados e integrações de sistemas**, com experiência prática em **JavaScript, TypeScript, Node.js, SQL e AWS**.
 
-Trabalho no desenvolvimento de aplicações **escaláveis, performáticas e seguras**, com forte atuação em **bancos de dados relacionais**, **APIs REST** e **integrações complexas com ERPs corporativos**.
+Atuo no desenvolvimento de aplicações **escaláveis, performáticas e seguras**, com forte foco em **bancos de dados relacionais**, **APIs REST** e **integrações complexas com ERPs corporativos**.
 
 ---
 
@@ -20,8 +20,11 @@ Trabalho no desenvolvimento de aplicações **escaláveis, performáticas e segu
 ### Backend
 - Node.js  
 - JavaScript  
+- TypeScript  
 
 ### Frontend
+- React  
+- TypeScript  
 - JavaScript  
 
 ### Databases
@@ -54,18 +57,18 @@ Trabalho no desenvolvimento de aplicações **escaláveis, performáticas e segu
 ### 🔧 JSON Tools
 🌐 **Website:** https://jsontools.site  
 
-Plataforma online focada em produtividade para desenvolvedores, oferecendo ferramentas para **manipulação, validação e formatação de JSON**, com interface simples e rápida.
+Plataforma online voltada para produtividade de desenvolvedores, oferecendo ferramentas para **manipulação, validação e formatação de JSON**, com foco em performance e usabilidade.
 
 **Main Features:**
 - JSON Formatter  
 - JSON Minifier  
 - JSON Validator  
-- Interface intuitiva e responsiva  
+- Interface moderna e responsiva  
 - 100% web (sem necessidade de instalação)
 
 **Tech Stack:**
-- JavaScript  
-- Node.js  
+- React  
+- TypeScript  
 
 ---
 
