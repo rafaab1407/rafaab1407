@@ -1,17 +1,17 @@
-# 👋 Hey, eu sou o Rafael Andrade Borges
+# 👋 Hi, I'm Rafael Andrade Borges
 
-💻 **Full Stack Developer** focado em **backend, dados e integrações de sistemas**, com experiência prática em **JavaScript, TypeScript, Node.js, SQL e AWS**.
+💻 **Full Stack Developer** specialized in **backend engineering, data, and system integrations**, with hands-on experience in **JavaScript, TypeScript, Node.js, SQL, and AWS**.
 
-Atuo no desenvolvimento de aplicações **escaláveis, performáticas e seguras**, com forte foco em **bancos de dados relacionais**, **APIs REST** e **integrações complexas com ERPs corporativos**.
+I build **scalable, high-performance, and secure applications**, with a strong focus on **relational databases**, **RESTful APIs**, and **complex enterprise system integrations**, including large-scale ERPs.
 
 ---
 
-## 🧠 Tech Focus
-- Backend & APIs REST  
-- SQL avançado e performance tuning  
-- Integração de sistemas e ERPs  
-- Cloud applications (AWS)  
-- Arquitetura e refatoração de sistemas  
+## 🧠 Technical Focus
+- Backend development & RESTful APIs  
+- Advanced SQL & performance tuning  
+- System and ERP integrations  
+- Cloud-based applications (AWS)  
+- Software architecture & legacy system refactoring  
 
 ---
 
@@ -30,25 +30,25 @@ Atuo no desenvolvimento de aplicações **escaláveis, performáticas e seguras*
 ### Databases
 - MySQL  
 - SQL Server  
-- Modelagem de dados  
-- Queries complexas & Stored Procedures  
+- Relational data modeling  
+- Complex queries & stored procedures  
 
 ### Cloud
 - AWS  
 
-### Integration
+### Integrations
 - REST APIs  
-- ERP Integration (TOTVS, SAP, MV)  
+- ERP integrations (TOTVS, SAP, MV)  
 
 ---
 
-## ⚙️ What I do
+## ⚙️ What I Do
 - Build and maintain scalable backend services  
-- Design and optimize relational databases  
+- Design, optimize, and maintain relational databases  
 - Develop and consume RESTful APIs  
-- Integrate systems and enterprise ERPs  
-- Improve performance and refactor legacy code  
-- Deploy and maintain cloud applications  
+- Integrate systems and enterprise-grade ERPs  
+- Improve performance and refactor legacy codebases  
+- Deploy, monitor, and maintain cloud applications  
 
 ---
 
@@ -57,14 +57,14 @@ Atuo no desenvolvimento de aplicações **escaláveis, performáticas e seguras*
 ### 🔧 JSON Tools
 🌐 **Website:** https://jsontools.site  
 
-Plataforma online voltada para produtividade de desenvolvedores, oferecendo ferramentas para **manipulação, validação e formatação de JSON**, com foco em performance e usabilidade.
+A web-based platform designed to improve developer productivity by providing fast, reliable, and easy-to-use tools for **JSON manipulation, validation, and formatting**, with a strong focus on performance and usability.
 
-**Main Features:**
+**Key Features:**
 - JSON Formatter  
 - JSON Minifier  
 - JSON Validator  
-- Interface moderna e responsiva  
-- 100% web (sem necessidade de instalação)
+- Modern, clean, and responsive UI  
+- Fully web-based (no installation required)
 
 **Tech Stack:**
 - React  
@@ -76,9 +76,9 @@ Plataforma online voltada para produtividade de desenvolvedores, oferecendo ferr
 
 ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaab1407&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaab1407&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaab1407&layout=compact&theme=tokyonight)
 
 ---
 
-## 🌎 Connect with me
+## 🌎 Connect with Me
 - 💼 LinkedIn: [linkedin.com/in/rafaelandradeborges](https://www.linkedin.com/in/rafaelandradeborges/)
