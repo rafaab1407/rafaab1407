@@ -16,25 +16,26 @@ Trabalho no desenvolvimento de aplicações **escaláveis, performáticas e segu
 ---
 
 ## 🛠️ Tech Stack
-**Backend**
-- Node.js
-- JavaScript
 
-**Frontend**
-- JavaScript
+### Backend
+- Node.js  
+- JavaScript  
 
-**Databases**
-- MySQL
+### Frontend
+- JavaScript  
+
+### Databases
+- MySQL  
 - SQL Server  
 - Modelagem de dados  
 - Queries complexas & Stored Procedures  
 
-**Cloud**
-- AWS
+### Cloud
+- AWS  
 
-**Integration**
+### Integration
 - REST APIs  
-- ERP Integration (TOTVS, SAP, MV)
+- ERP Integration (TOTVS, SAP, MV)  
 
 ---
 
@@ -48,7 +49,28 @@ Trabalho no desenvolvimento de aplicações **escaláveis, performáticas e segu
 
 ---
 
+## 🚀 Projects
+
+### 🔧 JSON Tools
+🌐 **Website:** https://jsontools.site  
+
+Plataforma online focada em produtividade para desenvolvedores, oferecendo ferramentas para **manipulação, validação e formatação de JSON**, com interface simples e rápida.
+
+**Main Features:**
+- JSON Formatter  
+- JSON Minifier  
+- JSON Validator  
+- Interface intuitiva e responsiva  
+- 100% web (sem necessidade de instalação)
+
+**Tech Stack:**
+- JavaScript  
+- Node.js  
+
+---
+
 ## 📊 GitHub Stats
+
 ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaab1407&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaab1407&layout=compact&theme=tokyonight)
