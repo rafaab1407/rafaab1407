@@ -4,26 +4,24 @@ I am a **Software Engineer** specializing in backend development, data managemen
 
 Beyond core backend architecture, I design and implement **AI-powered workflows, autonomous agents, and LLM integrations** to drive efficiency and smart automation.
 
+🌐 **[Visit My Professional Website](https://rafaelborges.com)** *(Substitua pelo link correto do seu site)*
+
 ---
 
 ## 🛠️ Tech Stack & Expertise
 
-### Backend, Core & AI Automation
-![JavaScript](https://img.shields.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![AI Agents](https://img.shields.shields.io/badge/AI_Agents_%26_LLMs-000000?style=for-the-badge&logo=openai&logoColor=white)
+### 💻 Backend, Core & AI Automation
+* **Languages & Runtimes:** JavaScript, TypeScript, Node.js
+* **Frameworks:** Express.js
+* **AI & Automation:** Autonomous Agents, Prompt Engineering, LLM Workflows
 
-### Databases & Cloud
-![MySQL](https://img.shields.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+### 🗄️ Databases & Cloud
+* **Databases:** MySQL, SQL Server, PostgreSQL, Redis
+* **Cloud Infrastructure:** AWS (Amazon Web Services)
+* **Hosting & Deployments:** VPS Environments, Linux Server Management
 
-### Frontend
-![React](https://img.shields.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+### 🎨 Frontend
+* **UI/UX:** React, TypeScript, Responsive Web Design
 
 ---
 
@@ -66,5 +64,5 @@ A modern, highly optimized corporate platform designed for Lever Projetos to sho
 
 ## 🌎 Connect with Me
 
+- 🌐 **Professional Website:** [rafaelborges.com](https://rafaelborges.com) *(Ajuste para a sua URL final)*
 - 💼 **LinkedIn:** [linkedin.com/in/rafaelandradeborges](https://www.linkedin.com/in/rafaelandradeborges/)
-- 🌐 **Professional Website:** [Coloque o link do seu site aqui]
