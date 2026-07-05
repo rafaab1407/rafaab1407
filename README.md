@@ -4,9 +4,9 @@ I am a **Software Engineer** specializing in backend development, data managemen
 
 Beyond core backend architecture, I design and implement **AI-powered workflows, autonomous agents, and LLM integrations** to drive efficiency and smart automation.
 
-🌐 **[Visit My Professional Website](https://rafaelborges.com)**
+🌐 **[Visit My Professional Website](https://borgesrafael.com/)**
 
----s
+---
 
 ## 🛠️ Tech Stack & Expertise
 
@@ -64,5 +64,5 @@ A modern, highly optimized corporate platform designed for Lever Projetos to sho
 
 ## 🌎 Connect with Me
 
-- 🌐 **Professional Website:** [rafaelborges.com](https://rafaelborges.com) *(Ajuste para a sua URL final)*
+- 🌐 **Professional Website:** [borgesrafael.com](https://borgesrafael.com/)
 - 💼 **LinkedIn:** [linkedin.com/in/rafaelandradeborges](https://www.linkedin.com/in/rafaelandradeborges/)
